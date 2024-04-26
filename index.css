@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(218, 146, 59);
+    background-size: auto;
+    
+}
+a:hover{
+    color: rgb(25, 224, 224);
+} 
+
+
+header{
+    background-color: #b8b818;
+
+}
+
+
+.mural{
+    text-align: right;
+
+
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    display: inline-block; 
+    background-color: #4CAF50; 
+    color: white;
+    padding: 10px 20px;
+    text-align: center; 
+    text-decoration: none;
+    border-radius: 5px;
+    border: none;
+}
+
+
+span{
+    text-align: center;
+    margin: 0 10px;
+    justify-content: center;
+}
